@@ -123,9 +123,7 @@ $ pytest electrum/tests/test_bitcoin.py -v
 
 - [Linux (tarball)](contrib/build-linux/sdist/README.md)
 - [Linux (AppImage)](contrib/build-linux/appimage/README.md)
-- [macOS](contrib/osx/README.md)
 - [Windows](contrib/build-wine/README.md)
-- [Android](contrib/android/Readme.md)
 
 
 ## Contributing
