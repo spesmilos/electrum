@@ -4,7 +4,6 @@
 Licence: MIT Licence
 Author: Thomas Voegtlin
 Language: Python (>= 3.8)
-Homepage: https://electrum.org/
 ```
 
 [![Build Status](https://api.cirrus-ci.com/github/spesmilo/electrum.svg?branch=master)](https://cirrus-ci.com/github/spesmilo/electrum)
@@ -120,7 +119,7 @@ To run a single file, specify it directly like this:
 $ pytest electrum/tests/test_bitcoin.py -v
 ```
 
-## Creating Binaries
+## Download Electrum
 
 - [Linux (tarball)](contrib/build-linux/sdist/README.md)
 - [Linux (AppImage)](contrib/build-linux/appimage/README.md)
