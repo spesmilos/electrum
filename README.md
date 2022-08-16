@@ -13,9 +13,6 @@ Language: Python (>= 3.8)
 
 ## Getting started
 
-_(If you've come here looking to simply run Electrum,
-[you may download it here](https://electrum.org/#download).)_
-
 Electrum itself is pure Python, and so are most of the required dependencies,
 but not everything. The following sections describe how to run from source, but here
 is a TL;DR:
